@@ -15,16 +15,6 @@ Also a professor at **Unifagoc**, teaching Web & Mobile development.
 <img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <br /><br />
 
-
-## 📦 Featured Projects
-
-| Project | Description |
-|---|---|
-| [iBuiltThis App](https://ibuiltthis-app-woad.vercel.app/) | Community platform for creators to showcase apps, SaaS and AI tools |
-| [Training AI App](https://ibuiltthis-app-woad.vercel.app/) | AI-powered fitness tracker with personalized training insights |
-| [Pinda Studio](https://www.pindastudio.com/) | High-performance landing page built with Next.js + Sanity CMS |
-
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--padovani-blue?logo=linkedin)](https://www.linkedin.com/in/felipe-padovani/)
