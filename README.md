@@ -21,7 +21,3 @@ Also a professor at **Unifagoc**, teaching Web & Mobile development.
 [![Email](https://img.shields.io/badge/Email-padovanifpc@gmail.com-red?logo=gmail)](mailto:padovanifpc@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-felipe__caetano66-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/felipe_caetano66/)
 
-## 📊 GitHub Stats
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeliperPC&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FeliperPC&layout=compact&theme=tokyonight&hide_border=true)
