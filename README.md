@@ -6,7 +6,7 @@ Currently working at **Rubeus** (leading EdTech CRM in Latin America) and runnin
 Also a professor at **Unifagoc**, teaching Web & Mobile development.
 
 
-## 🧰 Languages and Tools
+## 🧰 Main Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
