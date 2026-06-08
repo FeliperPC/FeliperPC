@@ -1,6 +1,6 @@
 # Hi, I'm Felipe Padovani 👋
 
-Full-Stack Engineer with 4+ years of experience building scalable web applications with **React, Next.js, Node.js and NestJS**.
+Full-Stack Engineer with 4+ years of experience building scalable web applications with **Angular, React, Next.js, Node.js and NestJS**.
 
 Currently working at **Rubeus** (leading EdTech CRM in Latin America) and running my own consulting practice **LIZ - Solutions**.  
 Also a professor at **Unifagoc**, teaching Web & Mobile development.
